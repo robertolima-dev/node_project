@@ -20,6 +20,10 @@ module.exports = app => {
         <br />
 
         <a href="http://localhost:4000/user/1" target="_blank">http://localhost:4000/user/1</a>
+
+        <br /><br />
+
+        <a href="https://robertolima.eti.br/codigos">Voltar para o site Roberto Lima</a>
         `;
         res.send(text)
     });
