@@ -25,9 +25,6 @@ app.use((req, res, next) => {
 
 consign()
     .include("routes")
-    // .then("db/knexfile.js")
-    // .then("controllers")
-    // .then("models")
     .into(app);
 
 app.set("port", 4000);
