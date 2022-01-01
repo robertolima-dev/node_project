@@ -9,7 +9,7 @@
   "author": "Roberto Lima (contato@robertolima.eti.br)",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.19.1",
     "consign": "^0.1.6",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
